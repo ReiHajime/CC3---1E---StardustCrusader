@@ -3,8 +3,8 @@ Our Game, Where An Adventurer, a member of a knights templar are on his way to f
 
 Coded by class CC3 - 1E :
 MEMBERS:
-Baltazar, Danilo C. 
-Calica, Haytchell Reiann C.
-De Castro, Angelo Jonin D. 
-Santiago, Kristoffer B. 
-Viluan, Patrick Ray S. 
+Baltazar, Danilo C.; 
+Calica, Haytchell Reiann C.;
+De Castro, Angelo Jonin D.; 
+Santiago, Kristoffer B.; 
+Viluan, Patrick Ray S.; 
